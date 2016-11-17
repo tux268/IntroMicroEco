@@ -2,7 +2,7 @@
 
 ## Introduction
 
- ### informations pratiques
+### informations pratiques
 
   Voir les slides d'introduction du cour ainsi que le syllabus.
 ### inrodution au cour
