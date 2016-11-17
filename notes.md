@@ -39,7 +39,7 @@ Les enseignements de l'histoire de Kyle MacDonald:
   * La valeur dans l'échange est crée par cette différence de "préférence" même si concrétement
     aucun objet ou service n'a concrétement été crée.
 
-  ### Les Courbes d'idifférences
+### Les Courbes d'idifférences
 
   Une majorité d'individu préférera le panier (5,3) au panier (3,2). C'est le principe de
   *non-satiété*. Cette Hypothèse n'est pas touours vérifiée pour certains cas particuliers.
@@ -68,7 +68,7 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
     *Dans le cas de biens adictifs (cigarette, drogue etc..) la courbes peut devenir convex.*
 
-  ### cas particuliers :
+### cas particuliers :
 
     - _Les substituts parfaits_ : ce sont des biens qui sont totalement substituables
     les un des autres. On peut consommer des deux de façon indifférente. Les Ci deviennent
@@ -78,7 +78,7 @@ Les enseignements de l'histoire de Kyle MacDonald:
     consomé ensemble. Si l'on achête plus d'un bien que de l'autre reste la même.
     les courbes sont // aux axes X et Y.
 
-  ### Gains dans l'échange
+### Gains dans l'échange
 
     Alice à une dotation initiale de (50,10) et Ben de (20,40) ils négocient et se mettent
     d'accord sur un échange, Alice donne 20 X en échange de 20 Y. Ils se retrouvent donc
@@ -87,7 +87,7 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
     [*économie d'échange dans un camp de prisonier pendant la WW2*](http://icm.clsbe.lisboa.ucp.pt/docentes/url/jcn/ie2/0POWCamp.pdf)
 
-  ### L'efficacité
+### L'efficacité
 
     * Définition (Pareto): Une situation est efficace s’il est impossible d’augmenter
     le bien-être d’un individu sans détériorer celui d’un autre.
@@ -102,7 +102,7 @@ Les enseignements de l'histoire de Kyle MacDonald:
   si TMSxy = 2 cela signifie qu'on est prêts à "sacrifier" deux Y pour un X.
   Dans les conventions le tms est touours en valeur absolue. (Ch02-02 p.3)
 
-  ### L'utilité (Ch02-02 p.5)
+### L'utilité (Ch02-02 p.5)
 
   *L'utilité* : Une fonction d’utilité est un moyen d’assigner un
   chiffre à chaque panier de consommation possible, de
@@ -152,7 +152,7 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
 ## Coûts et profits
 
-  ### La firme
+### La firme
 
   En économie une firme est une entité qui transforme des intrants (matière première
   collaborateurs, etc...) en produits finis.
@@ -167,16 +167,16 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
   *Produit* : biens ou services vendus.
 
-  ### Les recettes
+### Les recettes
 
   Rec = P x q
 
   Une augmentation du prix n’entraîne pas toujours d’une augmentation des recettes
   car la quantité diminue (offre et demande).
 
-  ### Les coûts
+### Les coûts
 
-  #### La structure des coûts
+#### La structure des coûts
 
   Coûts fixes : indépendants de la quantité produite. (ex: achat des batiments,
     etc...) Il s’agit des coûts nécessaires afin de servir le premier client.
@@ -206,18 +206,18 @@ Les enseignements de l'histoire de Kyle MacDonald:
     - Cm < CM => CM --
     - Cm > CM => CM ++
 
-  #### Le coût d'opportunité
+#### Le coût d'opportunité
 
-  #### Les Coûts irrécupérables
+#### Les Coûts irrécupérables
 
-  ## 7. Equilibre de marché
+## 7. Equilibre de marché
 
   l'équilibre de marché est le point ou l'offre et la demande son égale l'une à
   l'autre. On note P* le prix a l'équilibre et Q* la quantité.
 
   P*: Q^o=Q^d (slide 4)
 
-  ### Forces de marché
+### Forces de marché
 
   Même si chaques consomateurs et chaques producteurs agissent et font des
   décisions totalements indépendantes et décentralisée on s'accorde quand même
@@ -230,7 +230,7 @@ Les enseignements de l'histoire de Kyle MacDonald:
   certains marchés ou l'offre et la demande varient grandement et de ce fait les
   sont volatiles. Cela ne signifie pas qu'ils n'ont pas d'équilibre.
 
-  ### Déplacement de l’équilibre
+### Déplacement de l’équilibre
 
   Dans le cas du slide 8 la demande diminue pour ce type de maïs particulier.
   le résultat sur ce marchés le prix d'équilibre va diminuer et donc les quantités
@@ -247,11 +247,11 @@ Les enseignements de l'histoire de Kyle MacDonald:
   Certaines personnes qui auraient eu accès à un appartement au prix du marchés
   n'en auront pas dans ce cas. pour dimminuer le loyer il vaut mieux augmenter l'offre.
 
-  ### Mesure de bien-être
+### Mesure de bien-être
 
   On ne peut pas utiliser la notion d'utilité pour mesurer le bien-être de la population.
 
-  #### Surplus du consommateur (SC)
+#### Surplus du consommateur (SC)
 
   Différence entre le prix qu'on est prêt à payer pour un bien et le prix que l'on
   paie effectivement.
