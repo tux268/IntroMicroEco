@@ -144,11 +144,11 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
   **RATTRAPPER LE COURS DU MARDI 11 OCTOBRE !!!!!!!!!!**
 
- ----
+
 
 ## La demande
 
- ---
+  *yolo*
 
 ## Coûts et profits
 
@@ -262,3 +262,12 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
   Les demandes les plus inélastiques au prix (plus verticales) souffririont plus
   de l'augmentations du prix (slide 16).
+
+## 8.Monopole et pouvoir de marché
+
+  Qu’elles sont les origines d’un monopole ?
+
+  - Origines légales; e.g. Services postaux.
+  - Brevets; e.g. Médicaments.
+  - Seule détenteur d’une ressource; e.g. autoroute.
+  - Larges économies d’échelles (services des eaux, réseau de train...)
