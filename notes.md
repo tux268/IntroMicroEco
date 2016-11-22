@@ -295,4 +295,4 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
   Rm = R' = 24 - 2Q
 
-  on peut montrer que $$ Rm = p(1+1/Ep) $$
+  on peut montrer que $ Rm = p(1+1/Ep) $
