@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # Introduction à la microéconomie
 
 ## Introduction
@@ -271,3 +275,18 @@ Les enseignements de l'histoire de Kyle MacDonald:
   - Brevets; e.g. Médicaments.
   - Seule détenteur d’une ressource; e.g. autoroute.
   - Larges économies d’échelles (services des eaux, réseau de train...)
+
+
+  *CPP* : concurence pur et parfaite
+
+### Recettes marginales
+
+  Rm toujours en dessous de D
+
+  si D: p = 24 - Qd
+
+  R = 24Q - Q^2
+
+  Rm = R' = 24 - 2Q
+
+  on peut montrer que $$ Rm = p(1+1/Ep) $$
