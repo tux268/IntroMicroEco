@@ -295,4 +295,34 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
   Rm = R' = 24 - 2Q
 
-  on peut montrer que $ Rm = p(1+1/Ep) $
+  [...]
+
+  on peut montrer que Rm = p(1+1/Ep)
+
+### Pouvoir de Marché (PdM)
+
+  Définition: La capacité à vendre à un prix supérieur au coûtmarginal sans perdre
+  tous ses clients.
+
+  Si CPP : P=Cm si Pdm: P>Cm
+
+  Indice de Lerner: L = (p-Cm)/p = -1/Ep
+
+  _CPP_ : Ep --> - infini ==> L --> 0
+
+  *Monopole* : Ep --> -1 ==> l -->  1
+
+  sources d’inelasticité de demande :
+
+  - Absence de produits substituts : médicaments avant que le brevet soit échu, etc...
+  - Barrières à l’entrée : ...
+  - Coûts de transactions : couts fixe très grands au début (nucléaire)
+  - Lois : limitations du nombre de supermaché sur une zone donée (merde in france)
+
+### Le coût social du monopole
+
+|  /      | CPP        |  Monop   |delta  |  
+|----     |--------    |--------  |---    |
+| SC      | A+B+C      |  A       |  -B-C |
+| SP      | E+F+G      |  G+E+B   |  -F+B |
+| ST=SC+SP| A+B+C+E+F+G|  A+B+E+G |  -C-F |
