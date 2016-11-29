@@ -336,3 +336,31 @@ de ceux des cocurents. ==> pouvoir de marché. --> mais pas de barières à l'en
 --> imitation. ==> sur le long terme.
 
 On appelle cela la **concurence monopolistique**.
+
+## 9. Stratégies de prix
+
+*Discrimination par les prix (DP)*:
+Faire payer des prix différents pour des produits identiques.
+Les rabais étudiants ont pour but de maximiser les profits et non de subventioner les étudiants.
+
+3 conditions necessaires pour pratiquer la DP :
+
+- la capacité à choisir son prix ==> avoir du pouvoir de marché
+- l'information sur les clients ==> infos sur les demandes
+- la possibilité de revente ==> la revente doit être difficile
+
+### Discrimination parfaite (premier degré)
+
+Charger à chaque consommateur son prix de reserve (prix maximum prêt à payer).
+
+(Voir slide 6(ajouter graph)) Le premier client payera 4.- le deuxième 3.- et le troisième 2.-.
+le profit sera : 4+3+2 - 3*1.5 = 4.5
+
+==> la firme fait les profits les plus importants possibles.
+
+Une vente aux enchère est une forme de discrimination parfaite.
+
+### Discrimination implicite
+
+Les consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
+[...]
