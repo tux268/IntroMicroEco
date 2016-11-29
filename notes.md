@@ -321,8 +321,18 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
 ### Le coût social du monopole
 
-|  /      | CPP        |  Monop   |delta  |  
+|  /      | CPP        |  Monop   |delta  |
 |----     |--------    |--------  |---    |
 | SC      | A+B+C      |  A       |  -B-C |
 | SP      | E+F+G      |  G+E+B   |  -F+B |
 | ST=SC+SP| A+B+C+E+F+G|  A+B+E+G |  -C-F |
+
+La firme « Starbucks » a-t-elle du pouvoir de marché ? oui , P > Cm
+
+La firme « Starbucks » est-elle la seule sur le marché des cafés ? Non
+
+Comment expliquez-vous cette « contradiction » ? Les biens proposés sont différents
+de ceux des cocurents. ==> pouvoir de marché. --> mais pas de barières à l'entrée.
+--> imitation. ==> sur le long terme.
+
+On appelle cela la **concurence monopolistique**.
