@@ -360,7 +360,19 @@ le profit sera : 4+3+2 - 3*1.5 = 4.5
 
 Une vente aux enchère est une forme de discrimination parfaite.
 
-### Discrimination implicite
+### Discrimination implicite (deuxième degré)
 
 Les consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
 [...]
+
+### Discrimination explicite (troisième degré)
+
+Les consommateurs peuvent-être classés selon une caractéristique observable. C'est
+le type de discrimination qui est le plus observé en pratique.
+
+## 10. Interactions stratégiques
+
+*Equilibre de Nash (EN)*: Un EN est une situation où chaque joueur joue
+une stratégie de meilleure réponse face à la
+stratégie de l’autre ; c-à-d., où personne n’a intérêt
+à dévier unilatéralement.
