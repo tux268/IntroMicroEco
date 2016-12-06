@@ -46,7 +46,8 @@ Les enseignements de l'histoire de Kyle MacDonald:
 
   * tout le monde à bénéficié de ces échanges pas seulement Kyle
   * celà a été possible car les gens ne donnent pas tous la même valeur au objets.
-  * La valeur dans l'échange est crée par cette différence de "préférence" même si concrétement
+  * La valeur dans l'échange est crée par cette différence de "préférence" même si
+concrétement
     aucun objet ou service n'a concrétement été crée.
 
 ### Les Courbes d'idifférences
@@ -61,8 +62,7 @@ Les enseignements de l'histoire de Kyle MacDonald:
   On fait l'hypothèse que les préférences sont **stables**, elles ne changent pas
   dans le temps.
 
-  Une courbe d'indifférence (Ci) est l'ensemble des combinaisons de deux biens qui procurent au
-   consommateur un niveau de satisfaction identique.
+  Une courbe d'indifférence (Ci) est l'ensemble des combinaisons de deux biens qui procurent au consommateur un niveau de satisfaction identique.
 
    * Les Ci sont toujours // (preuve par transistivité)
 
@@ -206,7 +206,8 @@ Les enseignements de l'histoire de Kyle MacDonald:
         CM = CT/Q
   Sert à déterminer la rentabilité de la firme.
 
-  (Slide 12 : 1. économies d'echelle, CM -- quand Q ++ 2. deséconomies d'helle, CM++ quand Q ++)
+  (Slide 12 : 1. économies d'echelle, CM -- quand Q ++ 2. deséconomies d'helle, CM++ quand Q
+  ++)
 
   *Coût variable moyen* : CV de production d'une unité en moyenne quand la firme
     produit Q unités.
@@ -320,6 +321,8 @@ Les enseignements de l'histoire de Kyle MacDonald:
   - Lois : limitations du nombre de supermaché sur une zone donée (merde in france)
 
 ### Le coût social du monopole
+Les consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
+Les consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
 
 |  /      | CPP        |  Monop   |delta  |
 |----     |--------    |--------  |---    |
@@ -341,7 +344,9 @@ On appelle cela la **concurence monopolistique**.
 
 *Discrimination par les prix (DP)*:
 Faire payer des prix différents pour des produits identiques.
-Les rabais étudiants ont pour but de maximiser les profits et non de subventioner les étudiants.
+Les rabais étudiants oLes consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
+nt pour but de maximiser les profits et non de subventioner les
+étudiants.
 
 3 conditions necessaires pour pratiquer la DP :
 
@@ -353,7 +358,8 @@ Les rabais étudiants ont pour but de maximiser les profits et non de subvention
 
 Charger à chaque consommateur son prix de reserve (prix maximum prêt à payer).
 
-(Voir slide 6(ajouter graph)) Le premier client payera 4.- le deuxième 3.- et le troisième 2.-.
+(Voir slide 6(ajouter graph)) Le premier client payera 4.- le deuxième 3.- et le troisième
+2.-.
 le profit sera : 4+3+2 - 3*1.5 = 4.5
 
 ==> la firme fait les profits les plus importants possibles.
@@ -362,7 +368,8 @@ Une vente aux enchère est une forme de discrimination parfaite.
 
 ### Discrimination implicite (deuxième degré)
 
-Les consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
+Les consommateurs sont discriminés selon une caractéristique non observable : leurs
+préférences. Par exemple: Menu de prix, tarification par blocs
 [...]
 
 ### Discrimination explicite (troisième degré)
@@ -376,3 +383,86 @@ le type de discrimination qui est le plus observé en pratique.
 une stratégie de meilleure réponse face à la
 stratégie de l’autre ; c-à-d., où personne n’a intérêt
 à dévier unilatéralement.
+
+## 11. Bien Public et externalités
+
+Les pricipales différences d'un bien public par rapport à un bien privé sont :
+- Non-exclusion : impossibilité d'exclure des consomateurs.
+- Non-rivalité : la consomation d'un agent n'impacte pas la consomation des autres
+agents.
+
+Exemples de biens publiques : air pure, éclairage publique, etc ...
+
+### Non-rivalité
+
+Une fois produit, le coût additionnel pour qu’une autre personne consomme une unité
+du bien est nul.
+
+Par exemple : un phare. Une fois qu’il est construit etqu’il est allumé, le coût
+pour qu’il éclaire un bateau additionnel est nul.
+
+Certain biens non-rivaux perdent cette caractéristiques’il y a trop de consommateurs:
+phénomène de congestion (i.e. autoroute, piscine, internet...).
+
+### Non-Exclusion
+
+Quand il est difficile, voire impossible d’exclure quelqu’un de consommer un bien.
+
+Exemple:
+- air pur, paysage
+- éclairage de rue
+- défensenationale
+- qualité de l’environnement
+- etc ...
+
+La non-exclusion est directement associée au problèmedu «comportement de resquilleur»
+(«free rider problem» en anglais).
+
+|  | Rivalité | Non-rivalité|
+|--|----------|-------------|
+| **Exclusion**| Biens privés pures | Biens mixtes|
+| **Non-exclusion** | Biens mixtes| Biens publics pures|
+
+### Comportement de Resquilleur
+
+La non-exclusion est la cause de l’impossibilité defournir efficacement un bien public par
+le marché. La difficulté d’exclusion permet de consommer le biensans avoir à en payer le
+prix et donc couvrir le coût.
+
+Par exemple: il est impossible (sans intervention collective) de faire payer chaque personne
+qui bénéficie d’un éclairage public, ou qui bénéficie d’un environnement plus sain.
+
+Exemple cop21 :
+- Deux gros pays se font face lors de négociations sur le climat.
+- Chaque pays gagne si l’autre fait des efforts (car moins de CO2 dans l’atmosphère) mais
+- faire des efforts est couteux (en terme politique).
+- Si les deux pays font des efforts alors le gain commun est maximum. Mais chaque pays a
+- intérêt à profiter des efforts des autres. Résultats des négociations ?
+
+Voir la matrice de gain au slide 10. Equillibre de Nash pour le cas ou aucun des pays ne
+fait d'efforts.
+
+[...]
+
+### Les Externalités
+
+Une externalité se définit comme l’impact sans contrepartie de l’action d’un individu
+sur le bien-être d’un autre individu.
+
+- Si l’impact sur le tiers est défavorable, il s’agit d’une externalité négative.
+- Si l’impact sur le tiers est avantageux, il s’agit d’une externalité positive.
+
+Externalités négatives :
+- La pollution
+- Les gaz d’échappement d’une voiture
+- Les personnes qui discutent en cours
+
+Externalités positives :
+- L’éducation ou le savoir en général
+- Les vaccins
+- La restauration d’un ouvrage d’art
+- La création d’un parc naturel
+
+La présence d’externalités négatives conduit les marchés à produire une quantité
+supérieure à la quantité socialement optimale. Inversement pour les externalités positives.
+**Voir slide 19**
