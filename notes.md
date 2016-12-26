@@ -1,37 +1,60 @@
 
 # Introduction à la microéconomie
 
-## Introduction
+## 1. Introduction
 
-### informations pratiques
+### Informations pratiques
 
-  Voir les slides d'introduction du cour ainsi que le syllabus.
-### inrodution au cour
+Voir les slides d'introduction du cour ainsi que le syllabus.
 
-  Deux hypothéses fondamentales pour le cours :
+### Contenu du cour
 
-  * Les décisions sont rationelles, on sélectionne la meilleur alternative pour
-  nous.
+* Prise de décision des agents.
+* Interaction des agents (échange sur un marché, contrats...).
+* Importance des incitations.
 
-  * Le raisonnement économique se fait à l'équilibre.
+### Hypothèses et concepts fondamentaux en économie
 
-  *Arbitrage* : processus de pondération (coûts et bénéfices) et de choix entre
-  différentes alternatives.
 
-  *Coût d'opportunité* : notion de l'abandon d'une altérnative lors d'un choix.
-  Il n'as pas de valeur tangible.
+Deux hypothéses fondamentales pour le cours :
 
-  *Raisonement marginal* : influence sur la satisfaction apportée par un bien par
-  l'environement (exemple : satisfaction apporté par un verre d'eau dans le désert
-   ou chez sois).
+* Les décisions sont rationelles, on sélectionne la meilleur alternative pour
+nous.
 
-  *incitations* : les choses qui peuvent influencer le choix d'un agent (taxe co2)
+* Le raisonnement économique se fait à l'équilibre.
 
-  *lire l'histoire de Kyle MacDonald pour le prochain cours* exemple de valeur
-   crée dans l'échange
-   ___
+#### Arbitrage
+Processus de pondération (coûts et bénéfices) et de **choix** entre
+différentes alternatives. Par exemple allocation du temps entre les études et les
+loisirs, d'un revenu entre différents lieux de vacances, etc ...
 
-## Les préférences du consomateur
+#### Coût d'opportunité
+Notion de l'abandon d'une altérnative au profit d'une autre lors d'un choix.
+Il n'as pas de valeur tangible mais il est nécessaire pour comprendre une décision.
+
+![alt text](images/profit_eco.png "profit éco = Recettes – Coûts économiques(= Coûts comptables + coûts d’opportunité)")
+
+##### Exemple
+Un entrepreneur décide d'ouvrire une pizzeria, il estime les recettes à 240 000 CHF/an.
+Un comptable estime les coûts à 125 000 CHF/an. Le profit correspond à la différence entre
+les recettes et les coûts, ici 115 CHF/an. A première vue cette entreprise est rentable.
+
+Maintenant imaginons que ce même entrepreneur a actuellement un revenu de 160 000 CHF/an
+en faisant du consulting.
+Le coût d'opportunité de cette entreprise serait donc de devoir abandonner le travail de
+consulting au profit de l'ouverture de la pizzeria
+
+#### Raisonement marginal
+Influence sur la satisfaction apportée par un bien par
+l'environement (exemple : satisfaction apporté par un verre d'eau dans le désert ou chez
+sois). Le fait que la satisfaction change avec le contexte va avoir un impact sur la valeur
+accordée (et donc sur les prix dans une économie de marché).
+
+#### incitations
+Les choses qui peuvent influencer le choix d'un agent (taxe co2)
+
+
+## 2. Les préférences du consomateur
 
 Les enseignements de l'histoire de Kyle MacDonald:
 
