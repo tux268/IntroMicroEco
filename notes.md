@@ -175,8 +175,12 @@ Nous avons également le lien suivant entre l'utilité marginale et le taux marg
 de substitution :
 ![TMS UM](images/tms-um.png)
 
-*Droite de budget* : Droite qui délimite les biens que l'on peut s'offrire avec
-un budget donné. (ch02 p.14)
+### Droite de budget
+C'est une droite qui délimite les biens que l'on peut s'offrire avec
+un budget donné. Il ne suffit de connaire la quantité maximale que l'on peut achter
+du bien x et du bien y pour la tracer.
+
+![db](images/db.png)
 
 **voir slide 16** o.O
 
