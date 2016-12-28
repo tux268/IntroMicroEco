@@ -202,13 +202,24 @@ Au final nous avons la relation suivante :
 
 ![relation](images/truc.png)
 
-**RATTRAPPER LE COURS DU MARDI 11 OCTOBRE !!!!!!!!!!**
+## 3. La demande
 
+Il sagit dans ce chapitre de passer de la notion "d'un seul individu" à toute une population.
+La demande est la relation entre le prix d'un bien et la quantité demandé de ce bien.
 
+### La demande individuelle
 
-## La demande
+#### Exemple
 
-  *yolo*
+Représentez le comportement du consommateur B = 20 CHF, p Y = 2 CHF, p X = 2 CHF, 1 CHF et
+0,50 CHF Et (X,Y) = (4,6), (12,4) et (20,5)
+
+![Variation du prix d'un produit](images/varP.png)
+
+En prenant la quantité consomée de x en fonction de son prix nous pouvons ainsi construire
+sa demande individuelle (images de merde à changer...) :
+
+![Demande individuelle](images/demX.png)
 
 ## Coûts et profits
 
