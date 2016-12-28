@@ -232,7 +232,7 @@ Tracez-la courbe de demande d’une
 population consituée de 4 individus
 dont la demande individuelle est d.
 
-![trucc](tructr.png)
+![trucc](images/tructr.png)
 
 ## Coûts et profits
 
