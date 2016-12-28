@@ -83,9 +83,9 @@ Séminaire de microéconomie
 
 ## Séminaire 1
 
-## A. Introduction
+### A. Introduction
 
-# Exercice 1
+#### Exercice 1
 
   Parmi les affirmations suivantes, laquelle ne relève pas du dommaine micro-économique?
     a)La bonne qualité de la formation renforce la compétivité de la Suisse dans le secteur de l'horlogerie.
@@ -94,7 +94,7 @@ Séminaire de microéconomie
       engagé diminue.
     d)Lorsque le prix des mandarines augmente, la consomation de clémentine augmente
     
-# Exercice 1 (Correction)
+#### Exercice 1 (Correction)
 
   La réponse correcte est la "**A**" car:
   Le mot "directement" la réponse B n'est pas un lien directe de causalité de plus, cette réponse relève du dommaine de la 
