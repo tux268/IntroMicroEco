@@ -221,6 +221,19 @@ sa demande individuelle (images de merde à changer...) :
 
 ![Demande individuelle](images/demX.png)
 
+### La demande de marché
+
+La demande de marché c'est la somme de toute les demandes individuelles des individus
+qui composent la population. Formellement on a :
+
+![demande de marché](images/demM.png)
+
+Tracez-la courbe de demande d’une
+population consituée de 4 individus
+dont la demande individuelle est d.
+
+![trucc](tructr.png)
+
 ## Coûts et profits
 
 ### La firme
