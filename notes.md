@@ -162,12 +162,11 @@ plus élevée soit associées au panier préféré de l'individu.
 
 Si U(x) = 6 et U(y) = 2 alors le panier x est strictement
 préféré au panier y. Cependant on ne peut pas dire que x est
-préféré 3 fois plus que y. De ce fait on ne **peut pas comparer l'utilité entre
-deux individus**. L'utilité est un concept ordinal.
+préféré 3 fois plus que y. De ce fait on ne **peut pas comparer l'utilité entredeux individus**. L'utilité est un concept ordinal.
 
 ![Exemple utilité](images/fu.png)
 
-*Utilité marginale du bien X *: utilité supplémentaire obtenue grâce à
+*Utilité marginale du bien X*: utilité supplémentaire obtenue grâce à
 la consommation d’une unité supplémentaire de X.
 ![Utilité marginale](images/um.png)
 
@@ -182,16 +181,26 @@ du bien x et du bien y pour la tracer.
 
 ![db](images/db.png)
 
-**voir slide 16** o.O
-
 La pente de la droite de budjet dépends uniquement du prix des biens et non
-du pouvoir d'achat.
+du pouvoir d'achat. On a la relation suivant :
 
-***Le choix optimal*** : yolo
+![pente db](images/pdb2.png)
+
+### Le choix optimal
+
+Le choix optimal est le choix du panier de biens qui procure la plus grande satisfaction
+possible dans les limites du budget. Dans l'image suivante ça serait donc le choix
+du panier *b* qui serait optimal.
+
+![choix optimal](images/chOpt.png)
 
 le consomateur dépense tout son budget car dans ce model il a préalablement décidé
 ce qu'il allait épargner avant de faire le budget. De ce fait si il n'uttilise
 pas tout son budget c'est argent disparait (il le brûle par ex).
+
+Au final nous avons la relation suivante :
+
+![relation](images/truc.png)
 
 **RATTRAPPER LE COURS DU MARDI 11 OCTOBRE !!!!!!!!!!**
 
