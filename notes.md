@@ -114,69 +114,82 @@ les courbes sont parallèles aux axes X et Y.
 
 ### Gains dans l'échange
 
-    Alice à une dotation initiale de (50,10) et Ben de (20,40) ils négocient et se mettent
-    d'accord sur un échange, Alice donne 20 X en échange de 20 Y. Ils se retrouvent donc
-    avec un panier de (30,30) pour Alice et (40,20) pour Ben. Ils se retrouvent tout
-    les deux sur une CI supérieur. ils ont tout les deux gagné à l'échange.
+Alice à une dotation initiale de (50,10) et Ben de (20,40) ils négocient et se mettent
+d'accord sur un échange, Alice donne 20 X en échange de 20 Y. Ils se retrouvent donc
+avec un panier de (30,30) pour Alice et (40,20) pour Ben. Ils se retrouvent tout
+les deux sur une CI supérieur. ils ont tout les deux gagné à l'échange.
 
-    [*économie d'échange dans un camp de prisonier pendant la WW2*](http://icm.clsbe.lisboa.ucp.pt/docentes/url/jcn/ie2/0POWCamp.pdf)
+[*économie d'échange dans un camp de prisonier pendant la WW2*](http://icm.clsbe.lisboa.ucp.pt/docentes/url/jcn/ie2/0POWCamp.pdf)
 
 ### L'efficacité
 
-    * Définition (Pareto): Une situation est efficace s’il est impossible d’augmenter
-    le bien-être d’un individu sans détériorer celui d’un autre.
+* Définition (Pareto): Une situation est efficace s’il est impossible d’augmenter
+le bien-être d’un individu sans détériorer celui d’un autre.
 
-    * En particulier, s’il existe des échanges mutuellement bénéfiques inexploités,
-    on n’est pas en situationd’efficacité.
-    ____
+* En particulier, s’il existe des échanges mutuellement bénéfiques inexploités,
+on n’est pas en situationd’efficacité.
 
-## Le choix du consomateur
+* L’échange libre entre deux personnes amène à une allocation efficace (red paper clip).
 
-  *Le taux marginal de substitution (TMS)* : est "la pente" d'une CI pour des biens X et Y
-  si TMSxy = 2 cela signifie qu'on est prêts à "sacrifier" deux Y pour un X.
-  Dans les conventions le tms est touours en valeur absolue. (Ch02-02 p.3)
+* Si ce n’était pas le cas, l’une ou l’autre refuserait d’échanger tout simplement.
 
-### L'utilité (Ch02-02 p.5)
+* *Hypothèse fondamentale en économie: échange volontaire (personne n’est forcé d’échanger).*
 
-  *L'utilité* : Une fonction d’utilité est un moyen d’assigner un
-  chiffre à chaque panier de consommation possible, de
-  manière à ce que les paniers préférés reçoivent une
-  notation plus élevée que ceux qui leur sont moins
-  préférés.
+## 2.2 Le choix du consomateur
 
-  Elle représente la satisfaction qu'un individu retire d'une activité.
-  L'utilité tient compte du contexte, un bien similaire peut apporter une satisfaction
-  différente suivant le contexte. Elle prends en compte d'autres choses que simplement
-  de l'argent.
+![definition tms](images/tms1.png "Définition du tms")
 
-  On associe un chiffre à chaque paniers de biens de façon à ce que la notation la
-  plus élevée soit associées au panier préféré de l'individu.
+*Le taux marginal de substitution (TMS)* : est "la pente" d'une CI pour des biens X et Y
+si TMSxy = 2 cela signifie qu'on est prêts à "sacrifier" deux Y pour un X.
+Dans les conventions le tms est touours en valeur absolue.
 
-  Si U(x) = 6 et U(y) = 2 alors le panier x est strictement
-  préféré au panier y. Cependant on ne peut pas dire que x est
-  préféré 3 fois plus que y. De ce fait on ne **peut pas comparer l'utilité entre
-  deux individus**.
+![Exemple TMS](images/tms2.png "Exemple TMS")
+### L'utilité
 
-  *Utilité marginale du bien X *: utilité supplémentaire obtenue grâce à
-  la consommation d’une unité supplémentaire de X.
+*L'utilité* : Une fonction d’utilité est un moyen d’assigner un
+chiffre à chaque panier de consommation possible, de
+manière à ce que les paniers préférés reçoivent une
+notation plus élevée que ceux qui leur sont moins
+préférés.
 
-  Voir l'example des bounty sur mediaserver (04.10 millieu du cours)
+Elle représente la satisfaction qu'un individu retire d'une activité.
+L'utilité tient compte du contexte, un bien similaire peut apporter une satisfaction
+différente suivant le contexte. Elle prends en compte d'autres choses que simplement
+de l'argent.
 
-  *Droite de budget* : Droite qui délimite les biens que l'on peut s'offrire avec
-  un budget donné. (ch02 p.14)
+On associe un chiffre à chaque paniers de biens de façon à ce que la notation la
+plus élevée soit associées au panier préféré de l'individu.
 
-  **voir slide 16** o.O
+Si U(x) = 6 et U(y) = 2 alors le panier x est strictement
+préféré au panier y. Cependant on ne peut pas dire que x est
+préféré 3 fois plus que y. De ce fait on ne **peut pas comparer l'utilité entre
+deux individus**. L'utilité est un concept ordinal.
 
-  La pente de la droite de budjet dépends uniquement du prix des biens et non
-  du pouvoir d'achat.
+![Exemple utilité](images/fu.png)
 
-  ***Le choix optimal*** : yolo
+*Utilité marginale du bien X *: utilité supplémentaire obtenue grâce à
+la consommation d’une unité supplémentaire de X.
+![Utilité marginale](images/um.png)
 
-  le consomateur dépense tout son budget car dans ce model il a préalablement décidé
-  ce qu'il allait épargner avant de faire le budget. De ce fait si il n'uttilise
-  pas tout son budget c'est argent disparait (il le brûle par ex).
+Nous avons également le lien suivant entre l'utilité marginale et le taux marginal
+de substitution :
+![TMS UM](images/tms-um.png)
 
-  **RATTRAPPER LE COURS DU MARDI 11 OCTOBRE !!!!!!!!!!**
+*Droite de budget* : Droite qui délimite les biens que l'on peut s'offrire avec
+un budget donné. (ch02 p.14)
+
+**voir slide 16** o.O
+
+La pente de la droite de budjet dépends uniquement du prix des biens et non
+du pouvoir d'achat.
+
+***Le choix optimal*** : yolo
+
+le consomateur dépense tout son budget car dans ce model il a préalablement décidé
+ce qu'il allait épargner avant de faire le budget. De ce fait si il n'uttilise
+pas tout son budget c'est argent disparait (il le brûle par ex).
+
+**RATTRAPPER LE COURS DU MARDI 11 OCTOBRE !!!!!!!!!!**
 
 
 
