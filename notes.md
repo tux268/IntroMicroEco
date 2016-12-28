@@ -32,7 +32,7 @@ loisirs, d'un revenu entre différents lieux de vacances, etc ...
 Notion de l'abandon d'une altérnative au profit d'une autre lors d'un choix.
 Il n'as pas de valeur tangible mais il est nécessaire pour comprendre une décision.
 
-![alt text](images/profit_eco.png "profit éco = Recettes – Coûts économiques(= Coûts comptables + coûts d’opportunité)")
+![Profits](images/profit_eco.png "profit éco = Recettes – Coûts économiques(= Coûts comptables + coûts d’opportunité)")
 
 ##### Exemple
 Un entrepreneur décide d'ouvrire une pizzeria, il estime les recettes à 240 000 CHF/an.
@@ -54,53 +54,63 @@ accordée (et donc sur les prix dans une économie de marché).
 Les choses qui peuvent influencer le choix d'un agent (taxe co2)
 
 
-## 2. Les préférences du consomateur
-
+## 2.1 Les préférences du consomateur
 Les enseignements de l'histoire de Kyle MacDonald:
 
-  * tout le monde à bénéficié de ces échanges pas seulement Kyle
-  * celà a été possible car les gens ne donnent pas tous la même valeur au objets.
-  * La valeur dans l'échange est crée par cette différence de "préférence" même si
-concrétement
-    aucun objet ou service n'a concrétement été crée.
+* tout le monde à bénéficié de ces échanges pas seulement Kyle
+* celà a été possible car les gens ne donnent pas tous la même valeur au objets.
+* La valeur dans l'échange est crée par cette différence de "préférence" même si
+concrétement aucun objet ou service n'a concrétement été crée.
 
-### Les Courbes d'idifférences
+### Panier de bien
+Un individu peut se procurer des livres et des films (DVD).
+Par exemple: (5 films, 3 livres) constitue un panier de biens, que l’on note (5,3).
 
-  Une majorité d'individu préférera le panier (5,3) au panier (3,2). C'est le principe de
-  *non-satiété*. Cette Hypothèse n'est pas touours vérifiée pour certains cas particuliers.
-  On note (5,3) > (3,2)
+### Préférence d'un individu
 
-  Si on a (5,3) > (3,2) et qu'on nous dit que (3,2) > (2,4) alors (5,3) > (2,4).
-  C'est le principe de la *transitivité*. C'est l'idée de base pour définir la *rationalité*
+Une majorité d'individu préférera le panier (5,3) au panier (3,2). C'est le principe de
+*non-satiété*. Cette Hypothèse n'est pas touours vérifiée pour certains cas particuliers.
+On note (5,3) > (3,2)
 
-  On fait l'hypothèse que les préférences sont **stables**, elles ne changent pas
-  dans le temps.
+Si on a (5,3) > (3,2) et qu'on nous dit que (3,2) > (2,4) alors (5,3) > (2,4).
+C'est le principe de la *transitivité*. C'est l'idée de base pour définir la *rationalité*
 
-  Une courbe d'indifférence (Ci) est l'ensemble des combinaisons de deux biens qui procurent au consommateur un niveau de satisfaction identique.
+On fait l'hypothèse que les préférences sont **stables**, elles ne changent pas
+dans le temps.
 
-   * Les Ci sont toujours // (preuve par transistivité)
+### Les courbes d'indifférences
+Une courbe d'indifférence (Ci) est l'ensemble des combinaisons de deux biens qui procurent
+au consommateur un niveau de satisfaction identique.
 
-   * Les Ci sont décroissantes tant que les biens sont désirables. Elles peuvent
-   être croissante si l'on introduit des biens non désirable dans les paniers de choix
-   (par exemples des déchets ou de la polution ...) *voir slide 13 de Ch02 avec
-   les annotations du prof ou la vidéo du cour (23.09.16)*
+* Les Ci sont toujours parallèle (preuve par transistivité)
 
-   * les Ci sont convexe  car l'on fait l'hypothèse que les individus ont
-   *"un gout pour la diversité"*. Ils préfèrent avoir un peu de chaque bien et
-   pas beaucoup d'un seul bien.
-   **Voir la fin de la vidéo du cour (23.09.16)**
+* Les Ci sont décroissantes tant que les biens sont désirables. Elles peuvent
+être croissante si l'on introduit des biens non désirable dans les paniers de choix
+(par exemples des déchets ou de la polution ...) *voir slide 13 de Ch02 avec
+les annotations du prof ou la vidéo du cour (23.09.16)*
 
-    *Dans le cas de biens adictifs (cigarette, drogue etc..) la courbes peut devenir convex.*
+* les Ci sont convexe  car l'on fait l'hypothèse que les individus ont
+*"un gout pour la diversité"*. Ils préfèrent avoir un peu de chaque bien et
+pas beaucoup d'un seul bien. *Voir la fin de la vidéo du cour (23.09.16)*.
 
-### cas particuliers :
+![exemple de courbes d'indifférences](images/ci2.png "Exemple de CI")
 
-    - _Les substituts parfaits_ : ce sont des biens qui sont totalement substituables
-    les un des autres. On peut consommer des deux de façon indifférente. Les Ci deviennent
-    des droites dans ce cas.
 
-    - _Les compléments parfaits_ : ce sont des biens qui doivent obligatoirement être
-    consomé ensemble. Si l'on achête plus d'un bien que de l'autre reste la même.
-    les courbes sont // aux axes X et Y.
+*Dans le cas de biens adictifs (cigarette, drogue etc..) la courbes peut devenir convex.*
+
+#### cas particuliers :
+
+- _Les substituts parfaits_ : ce sont des biens qui sont totalement substituables
+les un des autres. On peut consommer des deux de façon indifférente. Les Ci deviennent
+des droites dans ce cas.
+
+![illustration substitus parfaits](images/ciSubs.png "Substitus parfaits")
+
+- _Les compléments parfaits_ : ce sont des biens qui doivent obligatoirement être
+consomé ensemble. Si l'on achête plus d'un bien que de l'autre reste la même.
+les courbes sont parallèles aux axes X et Y.
+
+![ilustration compléments parfaits](images/ciCompl.png "Compléments parfaits")
 
 ### Gains dans l'échange
 
