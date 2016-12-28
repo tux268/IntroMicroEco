@@ -79,3 +79,23 @@ Séminaire de microéconomie
 
 
   **Raisonement à la marge**
+
+
+## Séminaire 1
+
+## A. Introduction
+
+# Exercice 1
+
+  Parmi les affirmations suivantes, laquelle ne relève pas du dommaine micro-économique?
+    a)La bonne qualité de la formation renforce la compétivité de la Suisse dans le secteur de l'horlogerie.
+    b)La dépréciation de la monnaie nationale est un outil de relance efficace des exportations.
+    c)Toutes choses égales pas ailleurs, lorque le nombre d'employés d'une firme augmente, la productivité du dernier travailleur
+      engagé diminue.
+    d)Lorsque le prix des mandarines augmente, la consomation de clémentine augmente
+    
+# Exercice 1 (Correction)
+
+  La réponse correcte est la "**A**" car:
+  Le mot "directement" la réponse B n'est pas un lien directe de causalité de plus, cette réponse relève du dommaine de la 
+  macro-économie.
