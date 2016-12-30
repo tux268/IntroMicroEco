@@ -298,62 +298,62 @@ demande. <br/>
 en réponse à une augmentation de 1% du prix d’un autre bien, Y.<br/>
 ![élasticité prix croisé](images/epc.png)
 
-## Coûts et profits
+## 4. - 5. Coûts et profits
 
 ### La firme
 
-  En économie une firme est une entité qui transforme des intrants (matière première
-  collaborateurs, etc...) en produits finis.
+En économie une firme est une entité qui transforme des intrants (matière première
+collaborateurs, etc...) en produits finis.
 
-  Le but d'une firme est de maximiser son profits !
+Le but d'une firme est de maximiser son profits !
 
-  *Les facteurs de productions (intrants)* :
+*Les facteurs de productions (intrants)* :
 
-      - Capital (ressources matérielles durables)
-      - Travail (ressources provenant des employés)
-      - Matière première (ressource non durable, à tranformer)
+- Capital (ressources matérielles durables)
+- Travail (ressources provenant des employés)
+- Matière première (ressource non durable, à tranformer)
 
-  *Produit* : biens ou services vendus.
+*Produit* : biens ou services vendus.
 
 ### Les recettes
 
-  Rec = P x q
+Rec = P x q
 
-  Une augmentation du prix n’entraîne pas toujours d’une augmentation des recettes
-  car la quantité diminue (offre et demande).
+Une augmentation du prix n’entraîne pas toujours d’une augmentation des recettes
+car la quantité diminue (offre et demande).
 
 ### Les coûts
 
 #### La structure des coûts
 
-  Coûts fixes : indépendants de la quantité produite. (ex: achat des batiments,
-    etc...) Il s’agit des coûts nécessaires afin de servir le premier client.
-    Slide 10
+Coûts fixes : indépendants de la quantité produite. (ex: achat des batiments,
+etc...) Il s’agit des coûts nécessaires afin de servir le premier client.
+Slide 10
 
-  Coûts variables : dépends de la quantité (salaires des profs dépends du nombre
-    d'étudiants)
-    Coût total = fixes + variables.
-    *Coût marginal* : l'augmentation du cût total lié à la production d'une
-    unité suplémentaire.
-        Cm =CT'
-    Le Cm sert à derteminer le prix du vente choisi par une firme.
-    (voir annotations perso slide 11)
+Coûts variables : dépends de la quantité (salaires des profs dépends du nombre
+d'étudiants)
+Coût total = fixes + variables.
+*Coût marginal* : l'augmentation du cût total lié à la production d'une
+unité suplémentaire.
+Cm =CT'
+Le Cm sert à derteminer le prix du vente choisi par une firme.
+(voir annotations perso slide 11)
 
-  *Coût moyen* : coût de produire une unité (en moyenne) quand la firme produit
-    un total de Q unités.
-        CM = CT/Q
-  Sert à déterminer la rentabilité de la firme.
+*Coût moyen* : coût de produire une unité (en moyenne) quand la firme produit
+  un total de Q unités.
+CM = CT/Q
+Sert à déterminer la rentabilité de la firme.
 
-  (Slide 12 : 1. économies d'echelle, CM -- quand Q ++ 2. deséconomies d'helle, CM++ quand Q
-  ++)
+(Slide 12 : 1. économies d'echelle, CM -- quand Q ++ 2. deséconomies d'helle, CM++ quand Q
+++)
 
-  *Coût variable moyen* : CV de production d'une unité en moyenne quand la firme
-    produit Q unités.
-        CVM = CV/Q
-    Sert à determiner si la firme doit fermer.
+*Coût variable moyen* : CV de production d'une unité en moyenne quand la firme
+produit Q unités.
+CVM = CV/Q
+Sert à determiner si la firme doit fermer.
 
-    - Cm < CM => CM --
-    - Cm > CM => CM ++
+- Cm < CM => CM --
+- Cm > CM => CM ++
 
 #### Le coût d'opportunité
 
@@ -361,102 +361,102 @@ en réponse à une augmentation de 1% du prix d’un autre bien, Y.<br/>
 
 ## 7. Equilibre de marché
 
-  l'équilibre de marché est le point ou l'offre et la demande son égale l'une à
-  l'autre. On note P* le prix a l'équilibre et Q* la quantité.
+l'équilibre de marché est le point ou l'offre et la demande son égale l'une à
+l'autre. On note P* le prix a l'équilibre et Q* la quantité.
 
-  P*: Q^o=Q^d (slide 4)
+P*: Q^o=Q^d (slide 4)
 
 ### Forces de marché
 
-  Même si chaques consomateurs et chaques producteurs agissent et font des
-  décisions totalements indépendantes et décentralisée on s'accorde quand même
-  sur le même prix d'équilibre.
+Même si chaques consomateurs et chaques producteurs agissent et font des
+décisions totalements indépendantes et décentralisée on s'accorde quand même
+sur le même prix d'équilibre.
 
-  si P < P* on a un excès de demande, le prix aura tendance à augmenter.
+si P < P* on a un excès de demande, le prix aura tendance à augmenter.
 
-  si P > P* on a un excès d'offre, le prix aura tendance à baisser.
+si P > P* on a un excès d'offre, le prix aura tendance à baisser.
 
-  certains marchés ou l'offre et la demande varient grandement et de ce fait les
-  sont volatiles. Cela ne signifie pas qu'ils n'ont pas d'équilibre.
+certains marchés ou l'offre et la demande varient grandement et de ce fait les
+sont volatiles. Cela ne signifie pas qu'ils n'ont pas d'équilibre.
 
 ### Déplacement de l’équilibre
 
-  Dans le cas du slide 8 la demande diminue pour ce type de maïs particulier.
-  le résultat sur ce marchés le prix d'équilibre va diminuer et donc les quantités
-  avec.
+Dans le cas du slide 8 la demande diminue pour ce type de maïs particulier.
+le résultat sur ce marchés le prix d'équilibre va diminuer et donc les quantités
+avec.
 
-  Dans le cas du slide 9 le fait que le prix de l'engrais augmente alors le coût
-  marginal augmenet, cela implique que la courbe de l'offre monte. De ce fait le
-  prix va augmenter et les quantités échangées diminuer.
+Dans le cas du slide 9 le fait que le prix de l'engrais augmente alors le coût
+marginal augmenet, cela implique que la courbe de l'offre monte. De ce fait le
+prix va augmenter et les quantités échangées diminuer.
 
-  *Réglementation de prix (slide 10)*
+*Réglementation de prix (slide 10)*
 
-  Si on limite le loyer à 80CHF/m^2 alors que le prix de marché se situe à 100CHF
-  on se retrouve avec un excès de demande. Il y a donc une pénurie d'appartement.
-  Certaines personnes qui auraient eu accès à un appartement au prix du marchés
-  n'en auront pas dans ce cas. pour dimminuer le loyer il vaut mieux augmenter l'offre.
+Si on limite le loyer à 80CHF/m^2 alors que le prix de marché se situe à 100CHF
+on se retrouve avec un excès de demande. Il y a donc une pénurie d'appartement.
+Certaines personnes qui auraient eu accès à un appartement au prix du marchés
+n'en auront pas dans ce cas. pour dimminuer le loyer il vaut mieux augmenter l'offre.
 
 ### Mesure de bien-être
 
-  On ne peut pas utiliser la notion d'utilité pour mesurer le bien-être de la population.
+On ne peut pas utiliser la notion d'utilité pour mesurer le bien-être de la population.
 
 #### Surplus du consommateur (SC)
 
-  Différence entre le prix qu'on est prêt à payer pour un bien et le prix que l'on
-  paie effectivement.
-  Si on est prêt à payer 200.- pour un cannapé et on le trouve a 150.- sur ebay
-  alors le surplus du consomateur est de 50.-.
+Différence entre le prix qu'on est prêt à payer pour un bien et le prix que l'on
+paie effectivement.
+Si on est prêt à payer 200.- pour un cannapé et on le trouve a 150.- sur ebay
+alors le surplus du consomateur est de 50.-.
 
-  Le SC est toute la zone sous la demande et au dessus du prix (slide 14).
+Le SC est toute la zone sous la demande et au dessus du prix (slide 14).
 
-  Les demandes les plus inélastiques au prix (plus verticales) souffririont plus
-  de l'augmentations du prix (slide 16).
+Les demandes les plus inélastiques au prix (plus verticales) souffririont plus
+de l'augmentations du prix (slide 16).
 
 ## 8.Monopole et pouvoir de marché
 
-  Qu’elles sont les origines d’un monopole ?
+Qu’elles sont les origines d’un monopole ?
 
-  - Origines légales; e.g. Services postaux.
-  - Brevets; e.g. Médicaments.
-  - Seule détenteur d’une ressource; e.g. autoroute.
-  - Larges économies d’échelles (services des eaux, réseau de train...)
+- Origines légales; e.g. Services postaux.
+- Brevets; e.g. Médicaments.
+- Seule détenteur d’une ressource; e.g. autoroute.
+- Larges économies d’échelles (services des eaux, réseau de train...)
 
 
-  *CPP* : concurence pur et parfaite
+*CPP* : concurence pur et parfaite
 
 ### Recettes marginales
 
-  Rm toujours en dessous de D
+Rm toujours en dessous de D
 
-  si D: p = 24 - Q<sub>d</sub>
+si D: p = 24 - Q<sub>d</sub>
 
-  R = 24Q - Q^2
+R = 24Q - Q^2
 
-  Rm = R' = 24 - 2Q
+Rm = R' = 24 - 2Q
 
-  [...]
+[...]
 
-  on peut montrer que Rm = p(1+1/Ep)
+on peut montrer que Rm = p(1+1/Ep)
 
 ### Pouvoir de Marché (PdM)
 
-  Définition: La capacité à vendre à un prix supérieur au coûtmarginal sans perdre
-  tous ses clients.
+Définition: La capacité à vendre à un prix supérieur au coûtmarginal sans perdre
+tous ses clients.
 
-  Si CPP : P=Cm si Pdm: P>Cm
+Si CPP : P=Cm si Pdm: P>Cm
 
-  Indice de Lerner: L = (p-Cm)/p = -1/Ep
+Indice de Lerner: L = (p-Cm)/p = -1/Ep
 
-  _CPP_ : Ep --> - infini ==> L --> 0
+_CPP_ : Ep --> - infini ==> L --> 0
 
-  *Monopole* : Ep --> -1 ==> l -->  1
+*Monopole* : Ep --> -1 ==> l -->  1
 
-  sources d’inelasticité de demande :
+sources d’inelasticité de demande :
 
-  - Absence de produits substituts : médicaments avant que le brevet soit échu, etc...
-  - Barrières à l’entrée : ...
-  - Coûts de transactions : couts fixe très grands au début (nucléaire)
-  - Lois : limitations du nombre de supermaché sur une zone donée (merde in france)
+- Absence de produits substituts : médicaments avant que le brevet soit échu, etc...
+- Barrières à l’entrée : ...
+- Coûts de transactions : couts fixe très grands au début (nucléaire)
+- Lois : limitations du nombre de supermaché sur une zone donée (merde in france)
 
 ### Le coût social du monopole
 Les consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
