@@ -1,6 +1,8 @@
 
 # Introduction à la microéconomie
 
+[TOC]
+
 ## 1. Introduction
 
 ### Informations pratiques
@@ -233,6 +235,14 @@ population consituée de 4 individus
 dont la demande individuelle est d.
 
 ![trucc](images/tructr.png)
+
+#### Les facteurs affectant la demande
+
+La quantité demandée Qd dépend généralement de :
+
+* Le prix du bien (si le prix ++ alors Qd --)
+* Le prix d'autres biens (Pa) :
+  * Si Pa ++ --> Qd ++ alors
 
 ## Coûts et profits
 
