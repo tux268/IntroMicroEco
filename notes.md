@@ -458,6 +458,8 @@ On cherche la quantité q<sup>*</sup>, qui permet de maximiser le profit.
 On a la recette marginale qui est ![recette marginale](images/rm.png) <br/>
 ![Slide le plus important du cours](images/nb1.png)
 
+## 6. Firmes et marchés concurrentiels
+
 ## 7. Equilibre de marché
 
 l'équilibre de marché est le point ou l'offre et la demande son égale l'une à
