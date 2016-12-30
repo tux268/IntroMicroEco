@@ -318,43 +318,82 @@ Profit (π) = Recettes - Coûts
 
 ### Les recettes
 
-Rec = P x q
+Rec = P * q
 
 Une augmentation du prix n’entraîne pas toujours d’une augmentation des recettes
 car la quantité diminue (offre et demande).
+
+Quand est-il avantageux pour un producteur d’augmenter ses prix? <br/>
+Lorsque la demande est inélastique, une hausse du prix entraine une augmentation
+des recettes.
 
 ### Les coûts
 
 #### La structure des coûts
 
-Coûts fixes : indépendants de la quantité produite. (ex: achat des batiments,
-etc...) Il s’agit des coûts nécessaires afin de servir le premier client.
-Slide 10
+##### Coûts fixes (CF)
+Indépendants de la quantité produite. (ex: achat des batiments,
+etc...) Il s’agit des coûts nécessaires afin de servir le premier client. Par exemple :
+* Coût d’opportunité
+* Coûts de R&D
+* Coûts de “production” (ex: CD, film, etc.)
+* Coûts de distribution (câble, électricité, eau,...)
 
-Coûts variables : dépends de la quantité (salaires des profs dépends du nombre
+##### Coûts variables (CV)
+Dépends de la quantité produite (salaires des profs dépends du nombre
 d'étudiants)
-Coût total = fixes + variables.
-*Coût marginal* : l'augmentation du cût total lié à la production d'une
+
+##### Coût total
+CT = CF + CV
+
+##### Coût marginal
+L'augmentation du coût total lié à la production d'une
 unité suplémentaire.
-Cm =CT'
+
+![coût marginal](images/cm.png)
+
 Le Cm sert à derteminer le prix du vente choisi par une firme.
-(voir annotations perso slide 11)
 
-*Coût moyen* : coût de produire une unité (en moyenne) quand la firme produit
-  un total de Q unités.
-CM = CT/Q
-Sert à déterminer la rentabilité de la firme.
+##### Coût moyen
+Coût de produire une unité (en moyenne) quand la firme produit
+un total de Q unités.<br/>
+CM = CT/Q <br/>
+Il sert à déterminer la rentabilité de la firme. il prends généralement la forme suivante :
 
-(Slide 12 : 1. économies d'echelle, CM -- quand Q ++ 2. deséconomies d'helle, CM++ quand Q
-++)
+![coûts moyens typiques](images/cmt.png)
 
-*Coût variable moyen* : CV de production d'une unité en moyenne quand la firme
+1. économies d'echelle, CM -- quand Q ++
+2. deséconomies d'echelle, CM ++ quand Q ++
+
+Sources d’économies d’échelle:
+* Spécialisation
+* Large quantité d’intrants nécessaire au fonctionnement
+* Lorsqu’une fusion permet d’éliminer la duplication des coûts d’implantation.
+
+Sources de déséconomies d’échelle:
+* Gestion difficile si taille trop importante.
+* Problèmes de communication interne.
+
+##### Coût variable moyen
+CV de production d'une unité en moyenne quand la firme
 produit Q unités.
 CVM = CV/Q
 Sert à determiner si la firme doit fermer.
 
 - Cm < CM => CM --
 - Cm > CM => CM ++
+
+##### Synthèse
+
+![Pleins de coûts](images/ctruc.png)
+
+Si Cm > CM, alors CM augmente car le coût nécessaire pour produire une unité suplémentaire
+est supérieur au coût moyen de la production de toutes les unités précédentes.
+
+Si Cm < CM, alors CM diminue car le coût nécessaire pour produire une unité suplémentaire
+est inférieur au coût moyen de la production de toutes les unités précédentes.
+
+CM = Cm au point où CM atteint son minimum (parce que c'est logique et voila !)
 
 #### Le coût d'opportunité
 
