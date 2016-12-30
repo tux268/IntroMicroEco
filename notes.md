@@ -303,9 +303,10 @@ en réponse à une augmentation de 1% du prix d’un autre bien, Y.<br/>
 ### La firme
 
 En économie une firme est une entité qui transforme des intrants (matière première
-collaborateurs, etc...) en produits finis.
-
+collaborateurs, etc...) en produits finis.<br/>
 Le but d'une firme est de maximiser son profits !
+
+Profit (π) = Recettes - Coûts
 
 *Les facteurs de productions (intrants)* :
 
