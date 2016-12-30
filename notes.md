@@ -422,14 +422,48 @@ Les 15 000 CHF d'ivestissement sont un coût irrécupérable.
 
 ### Distinction Court terme/Long terme
 
+La notion de court terme et long terme peut varier en fonction du type d'industrie
+concerné.
 
+**exemple** : Un nouveau restaurant s’aperçoit que son succèsdépasse ses attentes.
+Quelles sont ses options... :
+* ...à court terme (dans les semaines qui suivent) ?
+  * Ettendre les heures d'ouvertures
+  * Optimiser l'utilisation du capital fix (mieux uttiliser l'espace du restaurant etc...)
+  * **Cela renviens a augmenter l'utilisation des facteurs variables**
+* ...à long terme (dans les années à venir) ?
+  * Engager du personel suplémentair
+  * Augmenter la taille du restaurant
+  * **Cela renviens a augmenter l'utilisation des facteurs qui sont fixes à court terme**
+
+
+À long terme, l’utilisation des intrants n’est pas contrainte (ex.: taille d’une usine,
+contrats avec les fournisseurs, etc.). Il se passe suffisamment de temps pour que tous les
+intrants soient variables.
+
+Même s’il se passe suffisamment de temps pour que tous les intrants soient variables
+il peut exister des coûts fixes à long terme. (ex. R&D, loyer, coût d’opportunité, etc.)
+
+À court terme, certains intrants sont fixes (car trop peu de temps pour s’ajuster) <br/>
+Donc, moins de flexibilité --> les coûts de CT sont supérieurs aux coûts de LT.
+
+![Court terme vs long terme](images/ctlt.png)
+
+### La maximisation du profit
+
+On a une fonction de profit sous la forme <br/>
+![profit](images/profq.png) <br/>
+On cherche la quantité q<sup>*</sup>, qui permet de maximiser le profit.
+
+On a la recette marginale qui est ![recette marginale](images/rm.png) <br/>
+![Slide le plus important du cours](images/nb1.png)
 
 ## 7. Equilibre de marché
 
 l'équilibre de marché est le point ou l'offre et la demande son égale l'une à
 l'autre. On note P* le prix a l'équilibre et Q* la quantité.
 
-P*: Q^o=Q^d (slide 4)
+P<sup>*</sup>: Q<sup>o</sup>=Q<sup>d</sup> (slide 4)
 
 ### Forces de marché
 
