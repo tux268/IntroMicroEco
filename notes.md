@@ -397,7 +397,32 @@ CM = Cm au point où CM atteint son minimum (parce que c'est logique et voila !)
 
 #### Le coût d'opportunité
 
+[Coût d'opportunité au chap 1](#coût-dopportunité)
+
+![Profits](images/prof.png)
+
+Contrairement au profit comptable, qui consiste surtout à
+faire un bilan des réalisations passées, le profit
+économique concerne les décisions actuelles et leurs
+conséquences futures.
+
 #### Les Coûts irrécupérables
+
+Les coûts irrécupérables concernent des décisions irréversibles qui ont déjà été prises.
+Les coûts irrécupérables ne sont pas pertinents dans la prise de décisions.
+
+On peut illustrer la notion de coûts irrécupérables avec l'exeple suivant :
+
+* Vous avez fait faire 1000 t-shirts humoristiques, à un coût unitaire de 15 CHF.
+* Malheureusement, ils sont très mal reçus du public, et personne ne veut les acheter à ce
+prix-là (15 CHF).
+* Acceptez-vous de baisser votre prix de vente en-deçà de 15 CHF?
+
+Les 15 000 CHF d'ivestissement sont un coût irrécupérable.
+
+### Distinction Court terme/Long terme
+
+
 
 ## 7. Equilibre de marché
 
