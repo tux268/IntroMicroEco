@@ -277,7 +277,9 @@ de la courbe de demande.
 ### Les élasticités
 
 *Élasticité* : Nombre traduisant la sensibilité d’une variable (Q<sub>d</sub>) par rapport
-à une autre (P).
+à une autre (P). <br />
+
+#### L'élasticité prix
 L’élasticité-prix (E<sub>p</sub>) représente le pourcentage de variation de Q<sub>d</sub>
 lorsque P varie de 1%.
 
@@ -285,6 +287,16 @@ lorsque P varie de 1%.
 Or on sait que ![élasticité prix](images/ep3.png) est égale à la pente de la fonction de
 demande. <br/>
 ![élasticité prix](images/ep2.png)
+
+#### Autres types d’élasticité
+
+* *L’élasticité-revenu* donne la variation relative de Q d en réponse à une variation du
+  revenu de 1%.<br/>
+![élasticité revenu](images/er.png)
+
+* *L’élasticité-prix croisée* donne la variation relative de Q d d’un bien X
+en réponse à une augmentation de 1% du prix d’un autre bien, Y.<br/>
+![élasticité prix croisé](images/epc.png)
 
 ## Coûts et profits
 
