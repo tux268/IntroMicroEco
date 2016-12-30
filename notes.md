@@ -1,7 +1,7 @@
 
 # Introduction à la microéconomie
 
-[TOC]
+[TOC] /!\
 
 ## 1. Introduction
 
@@ -127,6 +127,15 @@ les deux sur une CI supérieur. ils ont tout les deux gagné à l'échange.
 
 * Définition (Pareto): Une situation est efficace s’il est impossible d’augmenter
 le bien-être d’un individu sans détériorer celui d’un autre.
+Informations pratiques
+Voir les slides d'introduction du cour ainsi que le syllabus.
+
+Informations pratiques
+Voir les slides d'introduction du cour ainsi que le syllabus.
+
+Informations pratiques
+Voir les slides d'introduction du cour ainsi que le syllabus.
+
 
 * En particulier, s’il existe des échanges mutuellement bénéfiques inexploités,
 on n’est pas en situationd’efficacité.
@@ -238,11 +247,44 @@ dont la demande individuelle est d.
 
 #### Les facteurs affectant la demande
 
-La quantité demandée Qd dépend généralement de :
+La quantité demandée Q<sub>d</sub> dépend généralement de :
 
-* Le prix du bien (si le prix ++ alors Qd --)
-* Le prix d'autres biens (Pa) :
-  * Si Pa ++ --> Qd ++ alors
+* Le prix du bien (si le prix ++ alors Q<sub>d</sub> --)
+* Le prix d'autres biens (P<sub>a</sub>) :
+  * Si P<sub>a</sub> ++ --> Q<sub>d</sub> ++ alors les biens sont des *substituts*
+  * Si P<sub>a</sub> ++ --> Q<sub>d</sub> -- alors les biens sont des *compléments*
+* Le revenu des ménages (R) :
+  * Si R ++ --> Q<sub>d</sub> ++ alors c'est un bien *normal*
+  * Si R ++ --> Q<sub>d</sub> -- alors cc'est un bien *inférieur*
+
+##### exemple
+
+On a :
+Q<sub>d</sub> = 1'200 - 9,5 P + 16,2 P<sub>t</sub> + 0,2 R
+La fonction de demande pour l'huile d'olive en fonction de du prix (P), du prix de
+l'huile de tournesole (P<sub>t</sub>) et du revenu des ménages (R).
+
+On peut directement voir que :
+* Quand P ++ alors Q<sub>d</sub> --
+* L'huile d'olive et l'huile de tournesole sont des biens substituts
+* Lhuile d'olive est un bien normal
+
+Le changement du prix d’un bien est accompagné d’un déplacement le long de la courbe de
+demande.
+Le changement d’un facteur autre que le prix du bien est accompagné d’un déplacement
+de la courbe de demande.
+
+### Les élasticités
+
+*Élasticité* : Nombre traduisant la sensibilité d’une variable (Q<sub>d</sub>) par rapport
+à une autre (P).
+L’élasticité-prix (E<sub>p</sub>) représente le pourcentage de variation de Q<sub>d</sub>
+lorsque P varie de 1%.
+
+![élasticité prix](images/ep.png)
+Or on sait que ![élasticité prix](images/ep3.png) est égale à la pente de la fonction de
+demande. 
+![élasticité prix](images/ep2.png)
 
 ## Coûts et profits
 
@@ -374,7 +416,7 @@ La quantité demandée Qd dépend généralement de :
 
   Rm toujours en dessous de D
 
-  si D: p = 24 - Qd
+  si D: p = 24 - Q<sub>d</sub>
 
   R = 24Q - Q^2
 
