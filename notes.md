@@ -281,9 +281,9 @@ de la courbe de demande.
 L’élasticité-prix (E<sub>p</sub>) représente le pourcentage de variation de Q<sub>d</sub>
 lorsque P varie de 1%.
 
-![élasticité prix](images/ep.png)
+![élasticité prix](images/ep.png) <br />
 Or on sait que ![élasticité prix](images/ep3.png) est égale à la pente de la fonction de
-demande. 
+demande. <br/>
 ![élasticité prix](images/ep2.png)
 
 ## Coûts et profits
