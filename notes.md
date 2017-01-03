@@ -453,7 +453,7 @@ Donc, moins de flexibilité --> les coûts de CT sont supérieurs aux coûts de 
 
 On a une fonction de profit sous la forme <br/>
 ![profit](images/profq.png) <br/>
-On cherche la quantité q*, qui permet de maximiser le profit.
+On cherche la quantité q&#42;, qui permet de maximiser le profit.
 
 On a la recette marginale qui est ![recette marginale](images/rm.png) <br/>
 ![Slide le plus important du cours](images/nb1.png)
@@ -462,14 +462,14 @@ On a la recette marginale qui est ![recette marginale](images/rm.png) <br/>
 
 ### Décision de fermeture
 
-On cherche à répondre à la question "Une firme doit-elle fermer si π(q*) < 0 ?". <br/>
+On cherche à répondre à la question "Une firme doit-elle fermer si π(q&#42;) < 0 ?". <br/>
 Pour cela on va nalyser deux exemples en calculant les profits des deux firmes
 dans le cas ou elles restent ouvertes ou elles ferment (plus de R ni de CV mais
 toujours CF) :
-1.  q*, R = 2 000 CHF, CV = 1 000 CHF et CF = 3 000 CHF
+1.  q&#42;, R = 2 000 CHF, CV = 1 000 CHF et CF = 3 000 CHF
   * reste ouvert : π = 2 000 - (1 000 + 3 000) = <u>-2 000</u>
   * ferme : π = <u>-3 000</u>
-2.  q*, R = 500 CHF, CV = 1 000 CHF et CF = 3 000 CHF
+2.  q&#42;, R = 500 CHF, CV = 1 000 CHF et CF = 3 000 CHF
   * reste ouvert : π = 500 - (1 000 + 3 000) = <u>-3 500</u>
   * ferme : π = <u>-3 000</u>
 
@@ -478,7 +478,10 @@ dans le deuxième il est plus rentable de fermer.
 
 Concrétement on peut généraliser que la fermeture est préférable si :
 
-R < CV
+R < CV<br/>
+<==> p x q < CV<br/>
+<==> p < CV / q <br/>
+Donc fremeture si **p < CVM**
 
 ### Concurrence pure et parfaite (CPP)
 
@@ -494,18 +497,72 @@ Pour qu'un marché soit en CPP il doit remplir les cinq conditions suivantes :
 * Libre entrée et sortie sur le marché (pas de restrictions légales ou de coûts trop élevés)
 * Information parfaite (le conso sait exactement ce qu'il achète et le vendeur sait
 parfaitement ce que fait la concurence)
-* Pas de coûts de transaction
+* Pas de coûts de transaction (pas de coûts pour trouver des acheteur ou des vendeurs)
 
 Si une de ces conditions n’est pas remplie, nous ne sommes pas sur un marché concurrentiel.
 Il faudra donc utiliser d’autres modèles pour comprendre ces autres types de marchés dit
 « imparfaits ».
 
+### Concurence à court terme
+
+Comme toujours la firme recherche q&#42; tel que Rm = Cm.<br/>
+Or comme la "firme est preneuse de prix" et que R = p x q , on a :<br/>
+*Rm = p*<br/>
+Donc, en concurrence, profit max si **Cm = p**
+
+#### Les trois zones
+![Graph des trois zones](images/rent&ferm.png)
+
+#### Courbe d'offre de la firme à court terme
+
+Quand p > seuil de fermeture alors p = Cm
+
+Quand p < seuil de fermeture alors q = 0
+
+#### Courbe d'offre du marché
+
+La courbe d'offre du marché est la somme horizontale des courbes d'offres des différentes
+firmes.
+
+![Sonmme horizontale](images/sh.png)
+
+#### Elasticité prix de l'offre
+
+L'élasticité prix de l'offre se calcule de la même façon que celle de la dmeande.
+
+![Ep offre](images/epo.png)
+
+### Concurence à long terme
+
+Rappel: à long terme tous les coûts sont variables<br/>
+Maximisation du profit : Cm = Rm ==> Cm = p<br/>
+Décision de fermeture : R < CV,<br/>
+Or, à long terme, on a CV = CT (tous les coûts sont variables).<br/>
+Donc, fermeture si R < CT <== π < 0.
+
+**À long terme, une firme ne produit que si elle n’enregistre pas de pertes.**
+
+#### Courbe d'offre à long terme
+
+A long terme CM = CVM donc on a :
+
+![Courbe d'offre LT](images/colt.png)
+
+Quand p > seuil de rentabilité alors p = Cm
+
+Quand p < seuil de rentabilité alors q = 0
+
+### Résumé: Marchés compétitifs
+
+* Le prix de marché est unique (i.e. les prix convergent vers un prix unique).
+* Les firmes fixent leur prix à leur coût marginal.
+
 ## 7. Equilibre de marché
 
 l'équilibre de marché est le point ou l'offre et la demande son égale l'une à
-l'autre. On note P* le prix a l'équilibre et Q* la quantité.
+l'autre. On note p&#42; le prix a l'équilibre et q&#42; la quantité.
 
-P<sup>*</sup>: Q<sup>o</sup>=Q<sup>d</sup> (slide 4)
+P&#42;: Q<sup>o</sup>=Q<sup>d</sup> (slide 4)
 
 ### Forces de marché
 
@@ -513,9 +570,9 @@ Même si chaques consomateurs et chaques producteurs agissent et font des
 décisions totalements indépendantes et décentralisée on s'accorde quand même
 sur le même prix d'équilibre.
 
-si P < P* on a un excès de demande, le prix aura tendance à augmenter.
+si P < p&#42; on a un excès de demande, le prix aura tendance à augmenter.
 
-si P > P* on a un excès d'offre, le prix aura tendance à baisser.
+si P > p&#42; on a un excès d'offre, le prix aura tendance à baisser.
 
 certains marchés ou l'offre et la demande varient grandement et de ce fait les
 sont volatiles. Cela ne signifie pas qu'ils n'ont pas d'équilibre.
@@ -563,7 +620,7 @@ Qu’elles sont les origines d’un monopole ?
 - Larges économies d’échelles (services des eaux, réseau de train...)
 
 
-*CPP* : concurence pur et parfaite
+*CPp&#42; : concurence pur et parfaite
 
 ### Recettes marginales
 
