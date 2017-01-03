@@ -562,7 +562,15 @@ Quand p < seuil de rentabilité alors q = 0
 l'équilibre de marché est le point ou l'offre et la demande son égale l'une à
 l'autre. On note p&#42; le prix a l'équilibre et q&#42; la quantité.
 
-P&#42;: Q<sup>o</sup>=Q<sup>d</sup> (slide 4)
+Pour p&#42; on a Q<sup>o</sup>=Q<sup>d</sup>
+
+![Equillibre de marché](images/eqm.png)
+
+Par exemple on a :<br/>
+Q<sup>o</sup>= 100 + 40p<br/>
+Q<sup>d</sup>= 280 - 20p
+
+En résolvant le système on trouve que p&#42;= 3 et q&#42;= 220
 
 ### Forces de marché
 
@@ -579,13 +587,18 @@ sont volatiles. Cela ne signifie pas qu'ils n'ont pas d'équilibre.
 
 ### Déplacement de l’équilibre
 
-Dans le cas du slide 8 la demande diminue pour ce type de maïs particulier.
+Dans le cas du slide 8 Une étude démontre qu’un OGM utilisé pour cette culture
+est mauvais pour la santé. la demande diminue pour ce type de maïs particulier.
 le résultat sur ce marchés le prix d'équilibre va diminuer et donc les quantités
 avec.
+
+![images slide 8](images/8.png)
 
 Dans le cas du slide 9 le fait que le prix de l'engrais augmente alors le coût
 marginal augmenet, cela implique que la courbe de l'offre monte. De ce fait le
 prix va augmenter et les quantités échangées diminuer.
+
+![images slide 9](images/9.png)
 
 *Réglementation de prix (slide 10)*
 
@@ -605,10 +618,25 @@ paie effectivement.
 Si on est prêt à payer 200.- pour un cannapé et on le trouve a 150.- sur ebay
 alors le surplus du consomateur est de 50.-.
 
-Le SC est toute la zone sous la demande et au dessus du prix (slide 14).
+Le SC est toute la zone sous la demande et au dessus du prix.
 
-Les demandes les plus inélastiques au prix (plus verticales) souffririont plus
-de l'augmentations du prix (slide 16).
+![Surplus du consomateur](images/sc.png)
+
+Les demandes les plus inélastiques au prix (plus verticales) souffriront plus
+de l'augmentations du prix.
+
+![Variation de SC](images/varsc.png)
+
+#### Surplus du producteur (SP)
+
+Différence entre le prix de vente de chaque unité de produit et son coût de
+production (Cm).<br/>
+Graphiquement, c’est la surface située au-dessus de O et en-dessous du prix de vente,
+jusqu’à la qté vendue.
+
+![Surplus du producteur](images/sp.png)
+
+Surplus total : ![Surplus total](images/st.png)
 
 ## 8.Monopole et pouvoir de marché
 
