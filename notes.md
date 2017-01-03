@@ -453,12 +453,52 @@ Donc, moins de flexibilité --> les coûts de CT sont supérieurs aux coûts de 
 
 On a une fonction de profit sous la forme <br/>
 ![profit](images/profq.png) <br/>
-On cherche la quantité q<sup>*</sup>, qui permet de maximiser le profit.
+On cherche la quantité q*, qui permet de maximiser le profit.
 
 On a la recette marginale qui est ![recette marginale](images/rm.png) <br/>
 ![Slide le plus important du cours](images/nb1.png)
 
 ## 6. Firmes et marchés concurrentiels
+
+### Décision de fermeture
+
+On cherche à répondre à la question "Une firme doit-elle fermer si π(q*) < 0 ?". <br/>
+Pour cela on va nalyser deux exemples en calculant les profits des deux firmes
+dans le cas ou elles restent ouvertes ou elles ferment (plus de R ni de CV mais
+toujours CF) :
+1.  q*, R = 2 000 CHF, CV = 1 000 CHF et CF = 3 000 CHF
+  * reste ouvert : π = 2 000 - (1 000 + 3 000) = <u>-2 000</u>
+  * ferme : π = <u>-3 000</u>
+2.  q*, R = 500 CHF, CV = 1 000 CHF et CF = 3 000 CHF
+  * reste ouvert : π = 500 - (1 000 + 3 000) = <u>-3 500</u>
+  * ferme : π = <u>-3 000</u>
+
+On voit que dans le premier cas il est plus rentable de rester ouvert alors que
+dans le deuxième il est plus rentable de fermer.
+
+Concrétement on peut généraliser que la fermeture est préférable si :
+
+R < CV
+
+### Concurrence pure et parfaite (CPP)
+
+Une firme en CPP est dite « preneuse de prix» car sa marge de manoeuvre concernant
+le prix est très limitée (si le prix est plus élevé que la concurences les gens n'achètent
+pas).
+
+Une firme en CPP fait face à une demande qui est **parfaitement élastique**.
+
+Pour qu'un marché soit en CPP il doit remplir les cinq conditions suivantes :
+* Grand nombre de firmes et de consommateurs
+* Produit vendu identique
+* Libre entrée et sortie sur le marché (pas de restrictions légales ou de coûts trop élevés)
+* Information parfaite (le conso sait exactement ce qu'il achète et le vendeur sait
+parfaitement ce que fait la concurence)
+* Pas de coûts de transaction
+
+Si une de ces conditions n’est pas remplie, nous ne sommes pas sur un marché concurrentiel.
+Il faudra donc utiliser d’autres modèles pour comprendre ces autres types de marchés dit
+« imparfaits ».
 
 ## 7. Equilibre de marché
 
