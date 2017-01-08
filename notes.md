@@ -647,8 +647,11 @@ Qu’elles sont les origines d’un monopole ?
 - Seule détenteur d’une ressource; e.g. autoroute.
 - Larges économies d’échelles (services des eaux, réseau de train...)
 
+Un Monopoleur produit pour toute la demande du marché, sa seule contrainte est la
+la demande (il ne peut pas vendre à un prix
+trop élevé), il peut donc varier le prix en faisant varier les quantités produites.
 
-*CPp&#42; : concurence pur et parfaite
+![Monopoleur vs cpp](images/monop.png)
 
 ### Recettes marginales
 
@@ -662,7 +665,7 @@ Rm = R' = 24 - 2Q
 
 [...]
 
-on peut montrer que Rm = p(1+1/Ep)
+on peut montrer que ![Rm](images/Rmt.png)
 
 ### Pouvoir de Marché (PdM)
 
@@ -685,10 +688,13 @@ sources d’inelasticité de demande :
 - Lois : limitations du nombre de supermaché sur une zone donée (merde in france)
 
 ### Le coût social du monopole
-Les consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
-Les consommateurs sont discriminés selon une caractéristique non observable : leurs préférences. Par exemple: Menu de prix, tarification par blocs
+Les consommateurs sont discriminés selon une caractéristique non observable : leurs
+préférences. Par exemple: Menu de prix, tarification par blocs
 
-|  /      | CPP        |  Monop   |delta  |
+
+![truc](images/csMon.png)
+
+|  /      | CPP        |  Monop   |&Delta;|
 |----     |--------    |--------  |---    |
 | SC      | A+B+C      |  A       |  -B-C |
 | SP      | E+F+G      |  G+E+B   |  -F+B |
