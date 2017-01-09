@@ -1,5 +1,5 @@
 
-//# Introduction à la microéconomie
+# Introduction à la microéconomie
 
 Table of Contents
 =================
