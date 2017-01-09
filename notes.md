@@ -1,7 +1,85 @@
 
-# Introduction à la microéconomie
+//# Introduction à la microéconomie
 
-[TOC] /!\
+Table of Contents
+=================
+
+  * [1. Introduction](#1-introduction)
+     * [Informations pratiques](#informations-pratiques)
+     * [Contenu du cour](#contenu-du-cour)
+     * [Hypothèses et concepts fondamentaux en économie](#hypothèses-et-concepts-fondamentaux-en-économie)
+        * [Arbitrage](#arbitrage)
+        * [Coût d'opportunité](#coût-dopportunité)
+         * [Exemple](#exemple)
+        * [Raisonement marginal](#raisonement-marginal)
+        * [incitations](#incitations)
+  * [2.1 Les préférences du consomateur](#21-les-préférences-du-consomateur)
+     * [Panier de bien](#panier-de-bien)
+     * [Préférence d'un individu](#préférence-dun-individu)
+     * [Les courbes d'indifférences](#les-courbes-dindifférences)
+        * [cas particuliers :](#cas-particuliers-)
+     * [Gains dans l'échange](#gains-dans-léchange)
+     * [L'efficacité](#lefficacité)
+  * [2.2 Le choix du consomateur](#22-le-choix-du-consomateur)
+     * [L'utilité](#lutilité)
+     * [Droite de budget](#droite-de-budget)
+     * [Le choix optimal](#le-choix-optimal)
+  * [3. La demande](#3-la-demande)
+     * [La demande individuelle](#la-demande-individuelle)
+        * [Exemple](#exemple-1)
+     * [La demande de marché](#la-demande-de-marché)
+        * [Les facteurs affectant la demande](#les-facteurs-affectant-la-demande)
+           * [exemple](#exemple-2)
+     * [Les élasticités](#les-élasticités)
+        * [L'élasticité prix](#lélasticité-prix)
+        * [Autres types d’élasticité](#autres-types-délasticité)
+  * [4. - 5. Coûts et profits](#4---5-coûts-et-profits)
+     * [La firme](#la-firme)
+     * [Les recettes](#les-recettes)
+     * [Les coûts](#les-coûts)
+        * [La structure des coûts](#la-structure-des-coûts)
+           * [Coûts fixes (CF)](#coûts-fixes-cf)
+           * [Coûts variables (CV)](#coûts-variables-cv)
+           * [Coût total](#coût-total)
+           * [Coût marginal](#coût-marginal)
+           * [Coût moyen](#coût-moyen)
+           * [Coût variable moyen](#coût-variable-moyen)
+           * [Synthèse](#synthèse)
+        * [Le coût d'opportunité](#le-coût-dopportunité)
+        * [Les Coûts irrécupérables](#les-coûts-irrécupérables)
+     * [Distinction Court terme/Long terme](#distinction-court-termelong-terme)
+     * [La maximisation du profit](#la-maximisation-du-profit)
+  * [6. Firmes et marchés concurrentiels](#6-firmes-et-marchés-concurrentiels)
+     * [Décision de fermeture](#décision-de-fermeture)
+     * [Concurrence pure et parfaite (CPP)](#concurrence-pure-et-parfaite-cpp)
+     * [Concurence à court terme](#concurence-à-court-terme)
+        * [Les trois zones](#les-trois-zones)
+        * [Courbe d'offre de la firme à court terme](#courbe-doffre-de-la-firme-à-court-terme)
+        * [Courbe d'offre du marché](#courbe-doffre-du-marché)
+        * [Elasticité prix de l'offre](#elasticité-prix-de-loffre)
+     * [Concurence à long terme](#concurence-à-long-terme)
+        * [Courbe d'offre à long terme](#courbe-doffre-à-long-terme)
+     * [Résumé: Marchés compétitifs](#résumé-marchés-compétitifs)
+  * [7. Equilibre de marché](#7-equilibre-de-marché)
+     * [Forces de marché](#forces-de-marché)
+     * [Déplacement de l’équilibre](#déplacement-de-léquilibre)
+     * [Mesure de bien-être](#mesure-de-bien-être)
+        * [Surplus du consommateur (SC)](#surplus-du-consommateur-sc)
+        * [Surplus du producteur (SP)](#surplus-du-producteur-sp)
+  * [8.Monopole et pouvoir de marché](#8monopole-et-pouvoir-de-marché)
+     * [Recettes marginales](#recettes-marginales)
+     * [Pouvoir de Marché (PdM)](#pouvoir-de-marché-pdm)
+     * [Le coût social du monopole](#le-coût-social-du-monopole)
+  * [9. Stratégies de prix](#9-stratégies-de-prix)
+     * [Discrimination parfaite (premier degré)](#discrimination-parfaite-premier-degré)
+     * [Discrimination implicite (deuxième degré)](#discrimination-implicite-deuxième-degré)
+     * [Discrimination explicite (troisième degré)](#discrimination-explicite-troisième-degré)
+  * [10. Interactions stratégiques](#10-interactions-stratégiques)
+  * [11. Bien Public et externalités](#11-bien-public-et-externalités)
+     * [Non-rivalité](#non-rivalité)
+     * [Non-Exclusion](#non-exclusion)
+     * [Comportement de Resquilleur](#comportement-de-resquilleur)
+     * [Les Externalités](#les-externalités)
 
 ## 1. Introduction
 
@@ -535,7 +613,7 @@ L'élasticité prix de l'offre se calcule de la même façon que celle de la dme
 ### Concurence à long terme
 
 Rappel: à long terme tous les coûts sont variables<br/>
-Maximisation du profit : Cm = Rm ==> Cm = p<br/>
+Maximisation du profit : Cm = Rm ==> Cm = p<br/>1
 Décision de fermeture : R < CV,<br/>
 Or, à long terme, on a CV = CT (tous les coûts sont variables).<br/>
 Donc, fermeture si R < CT <== π < 0.
