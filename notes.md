@@ -766,9 +766,6 @@ sources d’inelasticité de demande :
 - Lois : limitations du nombre de supermaché sur une zone donée (merde in france)
 
 ### Le coût social du monopole
-Les consommateurs sont discriminés selon une caractéristique non observable : leurs
-préférences. Par exemple: Menu de prix, tarification par blocs
-
 
 ![truc](images/csMon.png)
 
